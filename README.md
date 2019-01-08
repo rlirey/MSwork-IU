@@ -1,3 +1,2 @@
-# M.S., Data Science
-## Indiana University - Bloomington
+# MS - Data Science
 Work from my M.S. program at Indiana University
